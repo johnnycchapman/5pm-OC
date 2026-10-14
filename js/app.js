@@ -26,7 +26,7 @@ HOODS.forEach(h=>{const b=document.createElement("button");b.className="hchip";b
 $("#searchForm").onsubmit=e=>{e.preventDefault();show()};$("#q").addEventListener("input",()=>searched&&render());
 ["#type","#nowOnly"].forEach(s=>$(s).addEventListener("input",render));
 $("#locate").onclick=()=>{if(!navigator.geolocation)return;navigator.geolocation.getCurrentPosition(p=>{here={lat:p.coords.latitude,lng:p.coords.longitude};$("#locate").classList.add("on");const m=$("#locmsg");m.hidden=false;m.textContent="Sorted by distance. Spots without a mapped address are listed after.";show()},()=>{const m=$("#locmsg");m.hidden=false;m.textContent="Couldn't get your location.";show()})};
-fetch("data/spots.json?v=1").then(r=>r.json()).then(j=>{spots=j.spots;render();const p=new URLSearchParams(location.search);if(p.get("q")){$("#q").value=p.get("q");show()}if(p.get("hood")){document.querySelectorAll(".hchip").forEach(c=>c.textContent===p.get("hood")&&c.click())}});
+fetch("data/spots.json?v=2").then(r=>r.json()).then(j=>{spots=j.spots;render();const p=new URLSearchParams(location.search);if(p.get("q")){$("#q").value=p.get("q");show()}if(p.get("hood")){document.querySelectorAll(".hchip").forEach(c=>c.textContent===p.get("hood")&&c.click())}});
 
 const ICON={bar:'<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16l-8 9z"/><path d="M12 13v7M8 20h8"/></svg>',
 restaurant:'<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"><path d="M7 3v8M5 3v5a2 2 0 0 0 4 0V3M7 11v10"/><path d="M17 21V3c-2 1-3 4-3 8h3"/></svg>'};
