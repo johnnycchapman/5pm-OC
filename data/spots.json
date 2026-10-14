@@ -1,0 +1,2138 @@
+{
+ "generated": "2026-10-14",
+ "note": "Deals change often; confirm with venues. Converted from Researcher's orange_county_happy_hours.json.",
+ "spots": [
+  {
+   "name": "Bayside Restaurant",
+   "neighborhood": "Newport Beach",
+   "address": "900 Bayside Dr, Newport Beach, CA 92660",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "19:00",
+   "hoursText": "Daily; Open-7 PM (bar & lounge)",
+   "deals": [
+    "$10 select-spirit cocktails (Tito's, John Battle Gin, Hornitos, Wild Turkey)",
+    "Bar Bites menu"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://visitnewportbeach.com/offer/happy-hours-at-bayside-nightly/",
+   "verified": true,
+   "notes": "Visit Newport Beach offer, valid Mar 12-Dec 23, 2026; start time not stated",
+   "zip": "92660",
+   "lat": 33.610919493844,
+   "lng": -117.893047187907,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "A+O Restaurant | Bar",
+   "neighborhood": "Newport Beach",
+   "address": "1221 West Coast Hwy, Newport Beach, CA 92663",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Thu; 3-6 PM",
+   "deals": [
+    "Curated cocktails and elevated bites (prices not listed)"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://visitnewportbeach.com/events/happy-hour-at-ao-restaurant-bar-2026-04-09/",
+   "verified": false,
+   "notes": "Event listing dated Apr 2026; deal prices not published",
+   "zip": "92663",
+   "lat": 33.615799958854,
+   "lng": -117.911884293315,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "RED O Newport Beach",
+   "neighborhood": "Newport Beach",
+   "address": "143 Newport Center Dr, Newport Beach, CA 92660",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Daily (Tue extended 3 PM-close); 3-6 PM & 9 PM-close",
+   "deals": [
+    "Small bites and specialty craft cocktails",
+    "Taco Tuesday all-day specials"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.redorestaurant.com/newport-beach",
+   "happyHourUrl": "https://www.redorestaurant.com/menus-newport-beach?menu=happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.redorestaurant.com/newport-beach",
+   "verified": true,
+   "notes": "Prices subject to change",
+   "zip": "92660",
+   "lat": 33.609818865779,
+   "lng": -117.877598798474,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Louie's By The Bay",
+   "neighborhood": "Newport Beach",
+   "address": "2801 W Coast Hwy, Newport Beach, CA 92663",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Daily; Wed all night; Thu late night; 4-6 PM; Wed 4 PM-close; Thu 8 PM-close",
+   "deals": [
+    "Thu: 50% off wine by the glass, 25% off bottles",
+    "bar area, dine-in only"
+   ],
+   "dealTypes": [
+    "wine"
+   ],
+   "website": "https://louiesnewport.com/",
+   "happyHourUrl": "https://louiesnewport.com/menu-happy-hour.html",
+   "happyHourDedicated": true,
+   "source": "https://louiesnewport.com/menu-happy-hour.html",
+   "verified": true,
+   "notes": "Address from search result for contact page",
+   "zip": "92663",
+   "lat": 33.618410421044,
+   "lng": -117.920523534507,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "The Cannery (Jellyfish Lounge)",
+   "neighborhood": "Newport Beach",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:30",
+   "end": "18:00",
+   "hoursText": "Daily; 3:30-6 PM",
+   "deals": [
+    "Menu items marked HH 40% off (sushi rolls, sliders, kung pao, sashimi salad)",
+    "dine-in only"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://cannerynewport.com/",
+   "happyHourUrl": "https://cannerynewport.com/menu.html",
+   "happyHourDedicated": true,
+   "source": "https://cannerynewport.com/menu.html",
+   "verified": true,
+   "notes": "Address not captured from source",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Bluewater Grill Newport Beach",
+   "neighborhood": "Newport Beach",
+   "address": "630 Lido Park Dr, Newport Beach, CA 92663",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "15:30",
+   "end": "18:30",
+   "hoursText": "Mon-Thu; 3:30-6:30 PM",
+   "deals": [
+    "Spotd lists $6 bottled beer, $6.50 draft, $9 house cocktails (deals unconfirmed on official page)"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails"
+   ],
+   "website": "https://www.bluewatergrill.com/location/newport/",
+   "happyHourUrl": "https://www.bluewatergrill.com/location/newport/",
+   "happyHourDedicated": false,
+   "source": "https://www.bluewatergrill.com/location/newport/",
+   "verified": true,
+   "notes": "Times from official page; deal prices only from third-party search summary",
+   "zip": "92663",
+   "lat": 33.615128918646,
+   "lng": -117.926636531316,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Billy's at the Beach",
+   "neighborhood": "Newport Beach",
+   "address": "2751 West Coast Hwy, Newport Beach, CA 92663",
+   "days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Tue-Fri; Sat; Sun; Tue-Fri 3-7 PM; Sat open-3:30 PM; Sun open-2 PM",
+   "deals": [
+    "Deals not listed"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://visitnewportbeach.com/restaurants/billys-at-the-beach/",
+   "verified": false,
+   "notes": "Tourism listing only; deals not published",
+   "zip": "92663",
+   "lat": 33.61805312646,
+   "lng": -117.919987489017,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Fly-N-Fish Oyster Bar",
+   "neighborhood": "Newport Beach",
+   "address": "2304 W Oceanfront, Newport Beach, CA 92663",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri (excl. holidays); 3-6 PM",
+   "deals": [
+    "$10 select wines by the glass",
+    "$5-$7 draft beer",
+    "half dozen oysters $14",
+    "discounted well drinks & small plates"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "http://www.flynfishoysterbar.com/",
+   "happyHourUrl": "http://www.flynfishoysterbar.com/",
+   "happyHourDedicated": true,
+   "source": "http://www.flynfishoysterbar.com/",
+   "verified": true,
+   "notes": "",
+   "zip": "92663",
+   "lat": 33.609902634085,
+   "lng": -117.92985511762,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Malarky's Irish Pub",
+   "neighborhood": "Newport Beach",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "07:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; Wed all night; Drinks 7 AM-6 PM; food 2-6 PM",
+   "deals": [
+    "Drink and food specials (details not captured)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://malarkysirishpub.netwaiter.com/newport-beach/menu",
+   "verified": false,
+   "notes": "Third-party ordering site; address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "bar"
+  },
+  {
+   "name": "Killarney's Irish Pub",
+   "neighborhood": "Huntington Beach",
+   "address": "209 Main St, Huntington Beach, CA 92648",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "19:00",
+   "hoursText": "Mon-Fri; 3-7 PM",
+   "deals": [
+    "All apps discounted",
+    "32oz double drafts from $12.50",
+    "22oz double cocktails from $16",
+    "$8 shots",
+    "Irish nachos $7",
+    "sliders $16",
+    "mini burgers $12.50"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "shots",
+    "food"
+   ],
+   "website": "https://killarneysirishpubhb.com/",
+   "happyHourUrl": "https://killarneysirishpubhb.com/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://killarneysirishpubhb.com/happy-hour/",
+   "verified": true,
+   "notes": "",
+   "zip": "92648",
+   "lat": 33.658213648458,
+   "lng": -118.001037184802,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Baja Sharkeez Huntington Beach",
+   "neighborhood": "Huntington Beach",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "19:00",
+   "hoursText": "Mon-Fri; 3-7 PM",
+   "deals": [
+    "32oz double cocktails (Great White Margarita $12.50)",
+    "$9 32oz domestic drafts",
+    "5 Pacificos $27",
+    "tacos $2.99, sliders $3.49, queso $4.99"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://sharkeez.net/",
+   "happyHourUrl": "https://sharkeez.net/huntington-beach/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://sharkeez.net/huntington-beach/happy-hour/",
+   "verified": true,
+   "notes": "Address not on HH page",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "bar"
+  },
+  {
+   "name": "Treehouse on PCH",
+   "neighborhood": "Huntington Beach",
+   "address": "21080 Pacific Coast Hwy, Huntington Beach, CA 92648",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 4-6 PM",
+   "deals": [
+    "$8 classic cocktails",
+    "$6 drafts",
+    "$8 wine (6oz)",
+    "25% off food",
+    "blackout dates may apply"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://treehousehb.com/",
+   "happyHourUrl": "https://treehousehb.com/events/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://treehousehb.com/events/happy-hour/",
+   "verified": true,
+   "notes": "Rooftop at Pasea Hotel; 21+",
+   "zip": "92648",
+   "lat": 33.6540808,
+   "lng": -117.9955978,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Triple Crown Tavern",
+   "neighborhood": "Huntington Beach",
+   "address": "714 Adams Ave Unit 101, Huntington Beach, CA 92648",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 4-6 PM (page footer also says 3-6 PM)",
+   "deals": [
+    "$6.50 house wine",
+    "$6 craft beer",
+    "$6 well cocktails",
+    "flatbreads $8-9",
+    "pretzel bites $7-9"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.triplecrowntavern.com/",
+   "happyHourUrl": "https://www.triplecrowntavern.com/happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.triplecrowntavern.com/happy-hour",
+   "verified": true,
+   "notes": "Page lists both 4-6 and 3-6 PM",
+   "zip": "92648",
+   "lat": 33.67205361008,
+   "lng": -117.990570638134,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "No Ka Oi",
+   "neighborhood": "Huntington Beach",
+   "address": "215 Main St, Huntington Beach, CA 92648",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "19:00",
+   "hoursText": "Daily (excl. holidays); 3-7 PM",
+   "deals": [
+    "$7 fish taco, martini, coconut shrimp, Bud Light, house wine, mai tai, well drinks",
+    "$12 food+drink combos",
+    "dine-in"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.nokaoihb.com/",
+   "happyHourUrl": "https://www.nokaoihb.com/happyhour",
+   "happyHourDedicated": true,
+   "source": "https://www.nokaoihb.com/happyhour",
+   "verified": true,
+   "notes": "",
+   "zip": "92648",
+   "lat": 33.658260884383,
+   "lng": -118.000990501341,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Sandbar Cocina y Tequila",
+   "neighborhood": "Huntington Beach",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:30",
+   "hoursText": "Mon-Fri; 3-6:30 PM",
+   "deals": [
+    "Half off shots and bottled/canned beer",
+    "+$1 for double cocktails/schooners",
+    "wings $7.75, nachos $7.75, queso fundido $8.75"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "shots",
+    "food"
+   ],
+   "website": "https://sandbar.net/",
+   "happyHourUrl": "https://sandbar.net/huntington-beach/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://sandbar.net/huntington-beach/happy-hour/",
+   "verified": true,
+   "notes": "Address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Duke's Huntington Beach",
+   "neighborhood": "Huntington Beach",
+   "address": "317 Pacific Coast Hwy, Huntington Beach, CA 92648",
+   "days": [],
+   "start": "",
+   "end": "",
+   "hoursText": "Varies; Varies (afternoon-evening)",
+   "deals": [
+    "Aloha Hour at Barefoot Bar (details unconfirmed)"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.happy-hour.com/local/orange-county/dukes-huntington-beach/",
+   "verified": false,
+   "notes": "Third-party listings only",
+   "zip": "92648",
+   "lat": 33.65720629428,
+   "lng": -118.001862987283,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Casa de Onda",
+   "neighborhood": "Costa Mesa",
+   "address": "1870 Harbor Blvd, Costa Mesa, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 4-6 PM",
+   "deals": [
+    "$10 Casa Margarita",
+    "$9 La Crema Chardonnay / Starmont Cab",
+    "$10 elote corn riblets",
+    "$9 Onda nachos",
+    "dine-in/bar"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "https://casadeondarestaurant.com/",
+   "happyHourUrl": "https://casadeondarestaurant.com/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://casadeondarestaurant.com/happy-hour/",
+   "verified": true,
+   "notes": "Zip not on page",
+   "zip": "",
+   "lat": 33.642952705048,
+   "lng": -117.918893186233,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Descanso",
+   "neighborhood": "Costa Mesa",
+   "address": "1555 Adams Ave Ste 103, Costa Mesa, CA 92626",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM",
+   "deals": [
+    "$5 beers",
+    "$9 wine & margaritas",
+    "$10 taco skillets",
+    "apps $11 and under"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://descansorestaurant.com/",
+   "happyHourUrl": "https://descansorestaurant.com/costa-mesa-happy-hour-early-evening-elevated",
+   "happyHourDedicated": true,
+   "source": "https://descansorestaurant.com/costa-mesa-happy-hour-early-evening-elevated",
+   "verified": true,
+   "notes": "",
+   "zip": "92626",
+   "lat": 33.673252694444,
+   "lng": -117.921951151902,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Cafe Sevilla Costa Mesa",
+   "neighborhood": "Costa Mesa",
+   "address": "",
+   "days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "hoursText": "Wed-Sun; tapas discount all night Wed-Thu; 5-7 PM",
+   "deals": [
+    "$8 wines (5oz)",
+    "$8 sangrias",
+    "$10 craft cocktails",
+    "50% off tapas"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.cafesevilla.com/",
+   "happyHourUrl": "https://www.cafesevilla.com/menu/happy-hour-costa-mesa/",
+   "happyHourDedicated": true,
+   "source": "https://www.cafesevilla.com/menu/happy-hour-costa-mesa/",
+   "verified": true,
+   "notes": "Address not confirmed (Spotd lists 1870 Harbor Blvd, which conflicts with Casa de Onda)",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Ospi Costa Mesa",
+   "neighborhood": "Costa Mesa",
+   "address": "234 E 17th St, Costa Mesa, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "17:30",
+   "hoursText": "Daily; 3-5:30 PM (bar & patio)",
+   "deals": [
+    "Aperitivo menu: $14 cocktails, $13 spuntini, $14 wine, $9 beer",
+    "mini cocktail flight $21",
+    "mini charcuterie $25"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "https://firebasestorage.googleapis.com/v0/b/mmh-co.firebasestorage.app/o/ospi%2Fcosta-mesa%2Fmenus%2Fpdfs%2Fdaily%2F06-25-26-ospi-costa-mesa-aperitivo-happy-hour-menu-1789593393770.pdf?alt=media&token=55c37b66-7cf2-4f65-9d04-10d65baf5731",
+   "happyHourDedicated": true,
+   "source": "https://www.spotd.biz/blog/best-happy-hours-costa-mesa.html",
+   "verified": true,
+   "notes": "Times from Ospi menu PDF dated 06.25.26 (Spotd says 3-6 PM); address from Spotd",
+   "zip": "",
+   "lat": 33.634628744335,
+   "lng": -117.917493177766,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Playa Mesa",
+   "neighborhood": "Costa Mesa",
+   "address": "428 E 17th St, Costa Mesa, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM",
+   "deals": [
+    "Margaritas, tacos, apps at HH pricing (prices not listed)"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.spotd.biz/blog/best-happy-hours-costa-mesa.html",
+   "verified": false,
+   "notes": "Third-party guide only (Jun 2026)",
+   "zip": "",
+   "lat": 33.630137892542,
+   "lng": -117.911032990168,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Yard House Costa Mesa (The Triangle)",
+   "neighborhood": "Costa Mesa",
+   "address": "1875 Newport Blvd, Costa Mesa, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; late night Sun-Wed; 3-6 PM; 10 PM-close",
+   "deals": [
+    "Half off select apps and pizzas",
+    "$2 off beer, wine, spirits, cocktails"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.spotd.biz/blog/best-happy-hours-costa-mesa.html",
+   "verified": false,
+   "notes": "Third-party guide only",
+   "zip": "",
+   "lat": 33.641360533584,
+   "lng": -117.918779922713,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "The Sandpiper Lounge",
+   "neighborhood": "Laguna Beach",
+   "address": "1183 S Coast Hwy, Laguna Beach, CA 92651",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "13:00",
+   "end": "18:00",
+   "hoursText": "Daily; 1-6 PM",
+   "deals": [
+    "$3 domestic beers",
+    "$4.50 well shots"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "shots"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.lagunabeachhappyhour.com/venue/the-sandpiper-lounge",
+   "verified": false,
+   "notes": "Third-party listing, verified May 27, 2026",
+   "zip": "92651",
+   "lat": 33.533451863692,
+   "lng": -117.776573664326,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Rumari",
+   "neighborhood": "Laguna Beach",
+   "address": "1826 S Coast Hwy, Laguna Beach, CA 92651",
+   "days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "hoursText": "Wed-Sun (excl. select holidays); 3-5 PM",
+   "deals": [
+    "$5 bottled beer",
+    "$8 well cocktails",
+    "$12 well martinis",
+    "$10 HH wines"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://rumarioc.com/",
+   "happyHourUrl": "https://rumarioc.com/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://rumarioc.com/happy-hour/",
+   "verified": true,
+   "notes": "",
+   "zip": "92651",
+   "lat": 33.528636893508,
+   "lng": -117.770916305244,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Mozambique",
+   "neighborhood": "Laguna Beach",
+   "address": "1740 S Coast Hwy, Laguna Beach, CA 92651",
+   "days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Wed-Fri; Sat-Sun; Wed-Fri 3-5 PM; Sat-Sun 2-4 PM",
+   "deals": [
+    "$5 select drafts",
+    "$6 house wine",
+    "$8 well cocktails, mojitos, margaritas",
+    "HH plates"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://mozambiqueoc.com/",
+   "happyHourUrl": "https://mozambiqueoc.com/menus/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://mozambiqueoc.com/menus/happy-hour/",
+   "verified": true,
+   "notes": "",
+   "zip": "92651",
+   "lat": 33.529250485271,
+   "lng": -117.771642969088,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Starfish Laguna Beach",
+   "neighborhood": "Laguna Beach",
+   "address": "30832 S Coast Hwy, Laguna Beach, CA 92651",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Daily; 3-6 PM",
+   "deals": [
+    "$10 well cocktails & house wine",
+    "$9 hot sake carafe",
+    "$5 lager, $8 Sapporo 20oz"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://starfishhospitalitygroup.com/lagunabeach/",
+   "happyHourUrl": "https://starfishhospitalitygroup.com/lagunabeach/menu/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://starfishhospitalitygroup.com/lagunabeach/menu/happy-hour/",
+   "verified": true,
+   "notes": "Address from search result",
+   "zip": "92651",
+   "lat": 33.516106023337,
+   "lng": -117.756990258357,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Las Brisas",
+   "neighborhood": "Laguna Beach",
+   "address": "361 Cliff Dr, Laguna Beach, CA 92651",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM (cantina)",
+   "deals": [
+    "HH menu (prices not captured)",
+    "Taco Tuesday"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.lasbrisaslagunabeach.com/",
+   "happyHourUrl": "https://www.lasbrisaslagunabeach.com/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://www.lasbrisaslagunabeach.com/happy-hour/",
+   "verified": true,
+   "notes": "Deal prices not captured",
+   "zip": "92651",
+   "lat": 33.543412103954,
+   "lng": -117.789679149419,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Yard House Irvine Spectrum",
+   "neighborhood": "Irvine",
+   "address": "620 Spectrum Center Dr, Irvine, CA 92618",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Daily (as listed); 3-6 PM; late night 10 PM-12 AM",
+   "deals": [
+    "Deals not listed on location page"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "https://www.yardhouse.com/",
+   "happyHourUrl": "https://www.yardhouse.com/",
+   "happyHourDedicated": false,
+   "source": "https://stage2.yardhouse.com/locations/ca/irvine/irvine-irvine-spectrum-center/8303",
+   "verified": true,
+   "notes": "Source is a staging URL of official site",
+   "zip": "92618",
+   "lat": 33.6504166,
+   "lng": -117.7449695,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Eureka! Irvine",
+   "neighborhood": "Irvine",
+   "address": "4143 Campus Dr, Irvine, CA 92612",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Daily; 3-6 PM & 9 PM-close",
+   "deals": [
+    "Mon $10 martini",
+    "Tue half-off wine",
+    "Wed half-off double smash burger",
+    "Thu $10 Buffalo Trace old fashioned",
+    "Sat-Sun $8.50 bloodies/mimosas"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://eurekarestaurantgroup.com/",
+   "happyHourUrl": "https://eurekarestaurantgroup.com/locations/irvine",
+   "happyHourDedicated": true,
+   "source": "https://eurekarestaurantgroup.com/locations/irvine",
+   "verified": true,
+   "notes": "",
+   "zip": "92612",
+   "lat": 33.649651311074,
+   "lng": -117.840240302594,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "CUCINA enoteca Irvine",
+   "neighborhood": "Irvine",
+   "address": "532 Spectrum Center Dr, Irvine, CA 92618",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Daily; 3-6 PM (bar + community table)",
+   "deals": [
+    "$8 draft",
+    "$9 wine",
+    "$10-$12 cocktails",
+    "$7-$12 food",
+    "pizza + bottle $45"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.urbankitchengroup.com/cucina-enoteca-irvine/",
+   "happyHourUrl": "https://www.urbankitchengroup.com/cucina-enoteca-irvine/menu/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://www.urbankitchengroup.com/cucina-enoteca-irvine/menu/happy-hour/",
+   "verified": true,
+   "notes": "Address from search result",
+   "zip": "92618",
+   "lat": 33.6517464,
+   "lng": -117.7462279,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Zov's Irvine",
+   "neighborhood": "Irvine",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "hoursText": "Mon-Fri; 3-5 PM (whole restaurant); 5-6 PM (bar)",
+   "deals": [
+    "$10 specialty cocktails & wine",
+    "$7 draft",
+    "starters incl. lamb chops, sliders"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.zovs.com/",
+   "happyHourUrl": "https://www.zovs.com/irvine/happy-hour-menu",
+   "happyHourDedicated": true,
+   "source": "https://www.zovs.com/irvine/happy-hour-menu",
+   "verified": true,
+   "notes": "Address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Sauced BBQ & Spirits Irvine",
+   "neighborhood": "Irvine",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "17:30",
+   "hoursText": "Mon-Fri; late night Fri-Sat; 3-5:30 PM; 8:30 PM-close",
+   "deals": [
+    "$8 shareables, $9 bites, 2 tacos $10"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.saucedbbqandspirits.com/",
+   "happyHourUrl": "https://www.saucedbbqandspirits.com/",
+   "happyHourDedicated": false,
+   "source": "https://www.saucedbbqandspirits.com/irvine/",
+   "verified": false,
+   "notes": "Irvine page now returns 404; search snippet only",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "The Goldfinch",
+   "neighborhood": "Irvine",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM",
+   "deals": [
+    "$4 off apps & specialty cocktails",
+    "$2 off draft beer/wine & wells",
+    "$8 Meili vodka/Green River bourbon",
+    "$10 select cocktails"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://www.thegoldfinchrestaurant.com/",
+   "happyHourUrl": "https://www.thegoldfinchrestaurant.com/menus/",
+   "happyHourDedicated": true,
+   "source": "https://www.thegoldfinchrestaurant.com/menus/",
+   "verified": true,
+   "notes": "Address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Paul Martin's American Grill",
+   "neighborhood": "Irvine",
+   "address": "534 Spectrum Center Dr, Irvine, CA 92618",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Sun-Thu; Fri-Sat; 3-6 PM; Fri-Sat 2-6 PM (bar)",
+   "deals": [
+    "Small plates $4-$12",
+    "$8 cocktails",
+    "$6 drafts",
+    "sandwich + $8 drink pairings $18"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://paulmartinsamericangrill.com/",
+   "happyHourUrl": "https://paulmartinsamericangrill.com/menus/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://paulmartinsamericangrill.com/menus/happy-hour/",
+   "verified": true,
+   "notes": "Address from search result",
+   "zip": "92618",
+   "lat": 33.6516397,
+   "lng": -117.7466536,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "The FIFTH",
+   "neighborhood": "Anaheim",
+   "address": "",
+   "days": [
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "hoursText": "Tue-Thu; 5-7 PM",
+   "deals": [
+    "$5 select drafts",
+    "$6 house wine",
+    "$7 well cocktails",
+    "$8 lite bites"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.thefifthoc.com/",
+   "happyHourUrl": "https://www.thefifthoc.com/news-item/oc-happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://www.thefifthoc.com/news-item/oc-happy-hour/",
+   "verified": true,
+   "notes": "Rooftop across from Disneyland; Tonight's Bite says Mon-Sat w/ $35 min (conflict); address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "The Cauldron Spirits & Brews",
+   "neighborhood": "Anaheim",
+   "address": "",
+   "days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Tue all day; Wed-Fri; Tue all day; Wed-Fri 4-6 PM; Witching Hour Wed/Thu/Sun 11 PM-12 AM",
+   "deals": [
+    "Sun 50% off wine bottles",
+    "HH prices not listed"
+   ],
+   "dealTypes": [
+    "wine"
+   ],
+   "website": "https://www.thecauldronbar.com/",
+   "happyHourUrl": "https://www.thecauldronbar.com/viewfullmenu",
+   "happyHourDedicated": true,
+   "source": "https://www.thecauldronbar.com/viewfullmenu",
+   "verified": true,
+   "notes": "Across from Knott's (Buena Park border); address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "bar"
+  },
+  {
+   "name": "Bottoms Up Tavern",
+   "neighborhood": "Anaheim",
+   "address": "2162 W Lincoln Ave, Anaheim, CA 92801",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "14:30",
+   "end": "18:30",
+   "hoursText": "Mon-Thu; 2:30-6:30 PM",
+   "deals": [
+    "$2.50 domestic bottles",
+    "$5.50 schooners",
+    "$3 wells",
+    "daily shot specials"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "shots"
+   ],
+   "website": "https://www.bottomsuptavern.net/",
+   "happyHourUrl": "https://www.bottomsuptavern.net/",
+   "happyHourDedicated": true,
+   "source": "https://www.bottomsuptavern.net/",
+   "verified": true,
+   "notes": "",
+   "zip": "92801",
+   "lat": 33.832380013712,
+   "lng": -117.95736458391,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Story Anaheim",
+   "neighborhood": "Anaheim",
+   "address": "8150 E Santa Ana Canyon Rd, Anaheim Hills, CA 92808",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Mon-Thu all day; Fri-Sun; All day (Mon-Thu); 2-7 PM (Fri-Sun); bar only",
+   "deals": [
+    "$6 wines",
+    "$10 well & classic cocktails",
+    "$2 off drafts",
+    "bites $8-$25"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.storyanaheim.com/",
+   "happyHourUrl": "https://www.storyanaheim.com/happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.storyanaheim.com/happy-hour",
+   "verified": true,
+   "notes": "",
+   "zip": "92808",
+   "lat": 33.868689778146,
+   "lng": -117.749013413032,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Reunion Kitchen + Drink Anaheim Hills",
+   "neighborhood": "Anaheim",
+   "address": "5775 E Santa Ana Canyon Rd, Anaheim, CA 92807",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "14:30",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 2:30-6 PM",
+   "deals": [
+    "Discounted snack plates, drafts, wine, wells, cocktails (prices not captured)"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.reunionkitchen.net/",
+   "happyHourUrl": "https://www.reunionkitchen.net/anaheim-hills",
+   "happyHourDedicated": true,
+   "source": "https://www.reunionkitchen.net/anaheim-hills",
+   "verified": true,
+   "notes": "",
+   "zip": "92807",
+   "lat": 33.851906700974,
+   "lng": -117.787688807001,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Mickey's Irish Pub",
+   "neighborhood": "Fullerton",
+   "address": "100 N Harbor Blvd, Fullerton, CA 92832",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "14:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; late night Sun-Wed; 2-6 PM; 8 PM-close",
+   "deals": [
+    "Specially priced food & drink",
+    "late night $7 cocktails, $5 beers"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.mickeyspuboc.com/",
+   "happyHourUrl": "https://www.mickeyspuboc.com/",
+   "happyHourDedicated": true,
+   "source": "https://www.mickeyspuboc.com/",
+   "verified": true,
+   "notes": "",
+   "zip": "92832",
+   "lat": 33.870407960037,
+   "lng": -117.924161858435,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Chako's Social",
+   "neighborhood": "Fullerton",
+   "address": "101 S Harbor Blvd, Fullerton, CA 92832",
+   "days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Tue-Fri; 3-6 PM",
+   "deals": [
+    "Discounted cocktails, beer, wine, appetizers (prices not listed)"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://chakossocial.com/",
+   "happyHourUrl": "https://chakossocial.com/happyhour-fullerton",
+   "happyHourDedicated": true,
+   "source": "https://chakossocial.com/happyhour-fullerton",
+   "verified": true,
+   "notes": "Other page on same site says M-F 4-9 PM (conflict)",
+   "zip": "92832",
+   "lat": 33.870284390559,
+   "lng": -117.924460929836,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "The Cellar",
+   "neighborhood": "Fullerton",
+   "address": "305 N Harbor Blvd 001, Fullerton, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Daily; 4-6 PM (bar & lounge)",
+   "deals": [
+    "Lobster bisque $12, steak sandwich $17",
+    "$12 cocktails (old fashioned, mule, etc.) and wine"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://www.cellardining.com/",
+   "happyHourUrl": "https://www.cellardining.com/happyhour",
+   "happyHourDedicated": true,
+   "source": "https://www.cellardining.com/happyhour",
+   "verified": true,
+   "notes": "",
+   "zip": "",
+   "lat": 33.872473645716,
+   "lng": -117.924448905571,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Hopscotch",
+   "neighborhood": "Fullerton",
+   "address": "136 E Commonwealth Ave, Fullerton, CA 92832",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Thu; 3-6 PM",
+   "deals": [
+    "Deals not listed"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://ocbarcentral.com/bars/hopscotch-fullerton",
+   "verified": false,
+   "notes": "Third-party listing updated Sep 30, 2026",
+   "zip": "92832",
+   "lat": 33.870292691982,
+   "lng": -117.923414534894,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Chart House Dana Point",
+   "neighborhood": "Dana Point",
+   "address": "34442 St of the Green Lantern, Dana Point, CA 92629",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 4-6 PM (bar & bar patio)",
+   "deals": [
+    "$8-$14 bites",
+    "$9 cocktails",
+    "$8 & $10 wines",
+    "$6 wells",
+    "$8 premium spirits",
+    "$6.50 drafts"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.chart-house.com/",
+   "happyHourUrl": "https://www.chart-house.com/location/chart-house-dana-point-ca/",
+   "happyHourDedicated": true,
+   "source": "https://www.chart-house.com/location/chart-house-dana-point-ca/",
+   "verified": true,
+   "notes": "",
+   "zip": "92629",
+   "lat": 33.463210509969,
+   "lng": -117.708083038674,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Glasspar",
+   "neighborhood": "Dana Point",
+   "address": "24961 Dana Point Harbor Dr, Dana Point, CA 92629",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Mon-Thu; Fri-Sat; 4:30-6 PM; Fri-Sat 4-6 PM",
+   "deals": [
+    "Deals not listed (bar, oyster bar, patio)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.glasspar.com/",
+   "happyHourUrl": "https://www.glasspar.com/happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.glasspar.com/happy-hour",
+   "verified": true,
+   "notes": "",
+   "zip": "92629",
+   "lat": 33.46261181021,
+   "lng": -117.695030737263,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Hook & Anchor Dana Point",
+   "neighborhood": "Dana Point",
+   "address": "34091 La Plaza, Dana Point, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "hoursText": "Mon-Fri; Sat-Sun; 3-6 PM; Sat-Sun 3-5 PM",
+   "deals": [
+    "$2.50 oysters (min 3)",
+    "$9-$12 bites",
+    "$5 drafts",
+    "$12 specialty drinks"
+   ],
+   "dealTypes": [
+    "beer",
+    "food"
+   ],
+   "website": "https://www.hookandanchordanapoint.com/",
+   "happyHourUrl": "https://www.hookandanchordanapoint.com/happyhour-dana-point",
+   "happyHourDedicated": true,
+   "source": "https://www.hookandanchordanapoint.com/happyhour-dana-point",
+   "verified": true,
+   "notes": "",
+   "zip": "",
+   "lat": 33.468063641954,
+   "lng": -117.699082680669,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Jack's Restaurant & Bar",
+   "neighborhood": "Dana Point",
+   "address": "24462 Del Prado, Dana Point, CA 92629",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Daily; 4-6 PM (bar & patio)",
+   "deals": [
+    "Deals not listed",
+    "no reservations for HH"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "https://jacksdp.com/",
+   "happyHourUrl": "https://jacksdp.com/",
+   "happyHourDedicated": false,
+   "source": "https://jacksdp.com/",
+   "verified": true,
+   "notes": "",
+   "zip": "92629",
+   "lat": 33.465499683917,
+   "lng": -117.702954384733,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "LUA Eatery",
+   "neighborhood": "Dana Point",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "14:00",
+   "end": "17:00",
+   "hoursText": "Mon-Fri; 2-5 PM",
+   "deals": [
+    "Not captured"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "https://www.luaeatery.com/",
+   "happyHourUrl": "https://www.luaeatery.com/happy-hour-menu/",
+   "happyHourDedicated": true,
+   "source": "https://www.luaeatery.com/happy-hour-menu/",
+   "verified": false,
+   "notes": "From search summary only",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Fisherman's Restaurant & Bar",
+   "neighborhood": "San Clemente",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "19:00",
+   "hoursText": "Mon-Fri; 4-7 PM",
+   "deals": [
+    "Sunset HH: $8 plates",
+    "daily meal & drink special"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.thefishermansrestaurantsanclemente.com/",
+   "happyHourUrl": "https://www.thefishermansrestaurantsanclemente.com/sunset-happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.thefishermansrestaurantsanclemente.com/sunset-happy-hour",
+   "verified": true,
+   "notes": "Address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "BeachFire San Clemente",
+   "neighborhood": "San Clemente",
+   "address": "",
+   "days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon, Wed, Thu, Fri; 3-6 PM",
+   "deals": [
+    "HH food menu (items not captured)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.beachfire.com/",
+   "happyHourUrl": "https://www.beachfire.com/menus/happy-hour",
+   "happyHourDedicated": true,
+   "source": "https://www.beachfire.com/menus/happy-hour",
+   "verified": true,
+   "notes": "Address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "El Mariachi Restaurant",
+   "neighborhood": "San Clemente",
+   "address": "1925 S El Camino Real, San Clemente, CA 92672",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "14:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 2-6 PM (bar & patio)",
+   "deals": [
+    "$6 margaritas",
+    "$3.50 Tecate / $16 pitchers",
+    "$5 nachos & quesadillas",
+    "$7 carne asada fries"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.elmr.us/",
+   "happyHourUrl": "https://www.elmr.us/menu/happy-hour-el-mariachi-restaurant/",
+   "happyHourDedicated": true,
+   "source": "https://www.elmr.us/menu/happy-hour-el-mariachi-restaurant/",
+   "verified": true,
+   "notes": "",
+   "zip": "92672",
+   "lat": 33.417535033329,
+   "lng": -117.602677700355,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Rare Society San Clemente",
+   "neighborhood": "San Clemente",
+   "address": "226 Avenida Del Mar, San Clemente, CA",
+   "days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Wed-Mon; 4-6 PM (bar & lounge)",
+   "deals": [
+    "$10 classic cocktails & wines",
+    "$6 beers",
+    "HH food $7-$24"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://raresociety.com/",
+   "happyHourUrl": "https://raresociety.com/happy-hour-san-clemente",
+   "happyHourDedicated": true,
+   "source": "https://raresociety.com/happy-hour-san-clemente",
+   "verified": true,
+   "notes": "",
+   "zip": "",
+   "lat": 33.42535395327,
+   "lng": -117.616090334604,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Nick's San Clemente",
+   "neighborhood": "San Clemente",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM",
+   "deals": [
+    "$7 margaritas (per Spotd)"
+   ],
+   "dealTypes": [
+    "cocktails"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.spotd.biz/spots/nicks-san-clemente",
+   "verified": false,
+   "notes": "Third-party only",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Lola Gaspar",
+   "neighborhood": "Santa Ana",
+   "address": "211 W 2nd St, Santa Ana, CA 92701",
+   "days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "hoursText": "Tue-Fri; 3-5 PM",
+   "deals": [
+    "$5 tacos",
+    "$7 chips & salsa",
+    "$8-$10 quekas",
+    "$6 wine & sangria",
+    "$8 margarita & paloma"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://www.lolagp.com/",
+   "happyHourUrl": "https://www.lolagp.com/menu/happy-hour/",
+   "happyHourDedicated": true,
+   "source": "https://www.lolagp.com/menu/happy-hour/",
+   "verified": true,
+   "notes": "Cashless",
+   "zip": "92701",
+   "lat": 33.746359512357,
+   "lng": -117.868843591062,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Native Son Alehouse",
+   "neighborhood": "Santa Ana",
+   "address": "305 E 4th St Ste 200, Santa Ana, CA 92701",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "hoursText": "Daily; 4-6 PM",
+   "deals": [
+    "Deals not listed"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "https://www.nativesonale.com/",
+   "happyHourUrl": "https://www.nativesonale.com/",
+   "happyHourDedicated": false,
+   "source": "https://www.nativesonale.com/orange-county",
+   "verified": true,
+   "notes": "",
+   "zip": "92701",
+   "lat": 33.748057795639,
+   "lng": -117.865485503868,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Perla Mexican Cuisine",
+   "neighborhood": "Santa Ana",
+   "address": "400 W 4th St, Santa Ana, CA",
+   "days": [],
+   "start": "",
+   "end": "",
+   "hoursText": "",
+   "deals": [
+    "HH cocktails, tequila, bites (times not confirmed)"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.spotd.biz/spots/perla-mexican-cuisine",
+   "verified": false,
+   "notes": "Third-party; times not found",
+   "zip": "",
+   "lat": 33.747920751698,
+   "lng": -117.870936506334,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Amor y Tequila",
+   "neighborhood": "Santa Ana",
+   "address": "224 E 3rd St, Santa Ana, CA",
+   "days": [],
+   "start": "",
+   "end": "",
+   "hoursText": "",
+   "deals": [
+    "$3 off tapas during HH"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://amorytequila.com/",
+   "happyHourUrl": "https://amorytequila.com/",
+   "happyHourDedicated": false,
+   "source": "https://amorytequila.com/",
+   "verified": false,
+   "notes": "Times not found; from search summary",
+   "zip": "",
+   "lat": 33.747072691042,
+   "lng": -117.866336648242,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Bar Louie Tustin",
+   "neighborhood": "Tustin",
+   "address": "The District at Tustin Legacy, Tustin, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; 3-6 PM",
+   "deals": [
+    "Deals not listed"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "http://www.barlouie.com/",
+   "happyHourUrl": "http://www.barlouie.com/",
+   "happyHourDedicated": false,
+   "source": "https://thedistricttl.com/stores/district-the-district-at-tustin-legacy-bar-louie/",
+   "verified": true,
+   "notes": "Street address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "bar"
+  },
+  {
+   "name": "The Yellow Chilli",
+   "neighborhood": "Tustin",
+   "address": "The District at Tustin Legacy, Tustin, CA",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "hoursText": "Mon-Thu; 5-7 PM",
+   "deals": [
+    "$9 bar bites",
+    "$10 cocktails",
+    "$4.50 draft & house wine"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://thedistricttl.com/promotions/the-yellow-chilli-new-prefix-lunch-menu-happy-hour/",
+   "verified": true,
+   "notes": "Mall promo page; street address not captured",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "The Winery Restaurant & Wine Bar",
+   "neighborhood": "Tustin",
+   "address": "2647 Park Ave, Tustin, CA 92782",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "14:30",
+   "end": "19:00",
+   "hoursText": "Mon-Fri; Sat; 2:30-7 PM; Sat 4-7 PM",
+   "deals": [
+    "Not captured"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
+   "source": "https://www.opentable.com/the-winery-restaurant-and-wine-bar-tustin",
+   "verified": false,
+   "notes": "OpenTable only",
+   "zip": "92782",
+   "lat": 33.698017259812,
+   "lng": -117.824361531086,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
+   "name": "Hopdoddy Burger Bar Tustin",
+   "neighborhood": "Tustin",
+   "address": "3030 El Camino Real, Tustin, CA 92782",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Thu; 3-6 PM (dine-in)",
+   "deals": [
+    "1/2 off cocktails, beer & wine"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://www.hopdoddy.com/",
+   "happyHourUrl": "https://www.hopdoddy.com/locations/tustin",
+   "happyHourDedicated": true,
+   "source": "https://www.hopdoddy.com/locations/tustin",
+   "verified": true,
+   "notes": "Page banner also says M-F (conflict); location info says M-Th",
+   "zip": "92782",
+   "lat": 33.723193137799,
+   "lng": -117.793606831773,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  }
+ ]
+}
