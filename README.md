@@ -1,6 +1,6 @@
-# 5pm OC — Orange County Happy Hour Finder
+# Cheers OC — Orange County Happy Hour Finder
 
-**5pm OC** helps happy hour fans find their next spot in Orange County, California. It's the sister site to [5pm Wilmington](https://johnnycchapman.github.io/5pm-ILM/).
+**Cheers OC** helps happy hour fans find their next spot in Orange County, California. It's the sister site to [Cheers ILM](https://cheersilm.com).
 
 Search by city, bar, restaurant, or zip and hit **"It's 5 O'Clock Somewhere"**, or tap a city chip (Newport Beach, Huntington Beach, Costa Mesa, Irvine, Laguna Beach, Dana Point, San Clemente, Anaheim, Fullerton, Santa Ana, Tustin). Results show on an interactive map (teal pins for bars, coral pins for restaurants) next to cards with each spot's days, times, and deals.
 
