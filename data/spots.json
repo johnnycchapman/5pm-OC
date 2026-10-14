@@ -301,6 +301,7 @@
    "website": "https://malarkyspub.com",
    "happyHourUrl": "https://www.malarkyspub.com/specials",
    "happyHourDedicated": true,
+   "linkLabel": "Source",
    "source": "https://www.malarkyspub.com/specials",
    "verified": false,
    "notes": "Owner-confirmed address. Happy hour and food specials are on the venue specials page.",
