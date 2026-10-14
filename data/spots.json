@@ -281,7 +281,7 @@
   {
    "name": "Malarky's Irish Pub",
    "neighborhood": "Newport Beach",
-   "address": "",
+   "address": "3011 Newport Blvd, Newport Beach, CA 92663",
    "days": [
     "Mon",
     "Tue",
@@ -298,16 +298,17 @@
    "dealTypes": [
     "food"
    ],
-   "website": "",
-   "happyHourUrl": "",
-   "happyHourDedicated": false,
+   "website": "https://malarkyspub.com",
+   "happyHourUrl": "https://www.malarkyspub.com/specials",
+   "happyHourDedicated": true,
    "source": "https://malarkysirishpub.netwaiter.com/newport-beach/menu",
    "verified": false,
-   "notes": "Third-party ordering site; address not captured",
-   "zip": "",
-   "lat": null,
-   "lng": null,
-   "venueType": "bar"
+   "notes": "Owner-confirmed address. Happy hour and food specials are on the venue specials page.",
+   "zip": "92663",
+   "lat": 33.615038625881,
+   "lng": -117.930398718169,
+   "venueType": "bar",
+   "addressSource": "US Census geocoder"
   },
   {
    "name": "Killarney's Irish Pub",
