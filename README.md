@@ -18,4 +18,4 @@ Plain HTML, CSS, and JavaScript — no build step. Map by [Leaflet](https://leaf
 
 Run locally: `python3 -m http.server` in this folder, then open http://localhost:8000. Deploy with GitHub Pages (branch `main`, folder `/ (root)`).
 
-Repository: [5pm-OC](https://github.com/johnnycchapman/5pm-OC). Live site: https://johnnycchapman.github.io/5pm-OC/
+Repository: [5pm-OC](https://github.com/johnnycchapman/5pm-OC). Live site: https://cheersoc.com
