@@ -10,7 +10,12 @@ a{color:var(--glass)}.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
 .mark{margin:0;max-width:100%;font-family:"Bebas Neue",Oswald,sans-serif;font-weight:400;text-transform:uppercase;line-height:.9;position:relative;z-index:1}
 .mark-top{display:block;font-size:clamp(2.15rem,13.8vw,7.4rem);color:var(--glass);letter-spacing:.015em;white-space:nowrap}
 .mark-sub{display:block;font-size:clamp(1.5rem,4.5vw,2.7rem);letter-spacing:.14em;color:var(--ink);margin-top:6px;white-space:nowrap}
+.hero-title{position:relative;z-index:1;max-width:16em;margin:18px auto 0;font:600 clamp(1.15rem,2.6vw,1.45rem)/1.25 Inter,system-ui,sans-serif;color:var(--ink)}
+.hero-lead{position:relative;z-index:1;max-width:36rem;margin:8px auto 0;color:var(--muted);font-size:.95rem}
 .hero .mono{margin:22px 0 6px;position:relative;z-index:1}.tag-line{color:var(--muted);font-size:.95rem;margin:0;position:relative;z-index:1}
+.intro{max-width:760px;margin:0 auto;padding:26px 20px 4px;text-align:center}
+.intro h2{margin:0 0 8px;font-family:"Bebas Neue",Oswald,sans-serif;font-weight:400;font-size:clamp(1.7rem,3.2vw,2.15rem);letter-spacing:.04em;line-height:1;text-transform:uppercase}
+.intro p{margin:0;color:var(--muted);font-size:.95rem}
 .searchbar{display:flex;gap:12px;max-width:1180px;margin:0 auto;padding:22px 20px}
 .field{flex:1;display:flex;align-items:center;background:#fff;border:1px solid var(--line);border-radius:10px;padding:0 8px 0 16px;box-shadow:var(--sh)}
 .field:focus-within{border-color:var(--glass);box-shadow:0 0 0 3px rgba(14,124,134,.18)}
