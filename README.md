@@ -14,7 +14,9 @@ Search by city, bar, restaurant, or zip and hit **"It's 5 O'Clock Somewhere"**, 
 > Deals and hours change often. Always check the venue's website for accurate deals before you go.
 
 ## Tech
-Plain HTML, CSS, and JavaScript — no build step. Map by [Leaflet](https://leafletjs.com/) with Esri World Light Gray Canvas tiles (© Esri, HERE, Garmin, © OpenStreetMap contributors). Spot data lives in `data/spots.json`; addresses were geocoded with the US Census geocoder and OpenStreetMap Nominatim.
+Plain HTML, CSS, and JavaScript. Map by [Leaflet](https://leafletjs.com/) with Esri World Light Gray Canvas tiles (© Esri, HERE, Garmin, © OpenStreetMap contributors). Spot data lives in `data/spots.json`; addresses were geocoded with the US Census geocoder and OpenStreetMap Nominatim.
+
+When `data/spots.json` changes, rerun `python3 scripts/build-areas.py`. It rewrites the browse-by-city section and the JSON-LD block in `index.html` (between the `AREAS` and `JSONLD` marker comments).
 
 Run locally: `python3 -m http.server` in this folder, then open http://localhost:8000. Deploy with GitHub Pages (branch `main`, folder `/ (root)`).
 

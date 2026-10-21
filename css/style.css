@@ -57,5 +57,20 @@ footer{padding:8px 20px 28px;color:var(--muted);font-size:.8rem}footer .disclaim
 .pop ul{padding-left:16px;margin:6px 0}.pop a{color:var(--glass);margin-right:10px}.pop .meta{font-size:.78rem}.pop .confirm{display:block;margin:4px 0}
 .warm-tiles{filter:sepia(.08) saturate(1.05)}
 #clock{white-space:nowrap}
+.areas{margin:28px 0 36px}
+.areas h2{margin:0 0 8px;font-family:"Bebas Neue",Oswald,sans-serif;font-weight:400;font-size:clamp(1.7rem,3.2vw,2.15rem);letter-spacing:.04em;line-height:1;text-transform:uppercase}
+.areas-intro{margin:0 0 16px;color:var(--muted);font-size:.95rem;max-width:40rem}
+.area{background:#fff;border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);margin:0 0 10px}
+.area summary{cursor:pointer;list-style:none;padding:14px 16px;font-weight:600;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.area summary::-webkit-details-marker{display:none}
+.area summary::marker{content:""}
+.area summary::after{content:"";width:8px;height:8px;border-right:2px solid var(--glass);border-bottom:2px solid var(--glass);transform:rotate(45deg);flex:none;margin-top:-4px}
+.area[open] summary::after{transform:rotate(-135deg);margin-top:4px}
+.area-spots{list-style:none;margin:0;padding:0 16px 8px}
+.area-spot{display:grid;gap:2px;padding:12px 0;border-top:1px solid var(--line)}
+.area-name{font-weight:600}
+.area-when,.area-deal{color:var(--muted);font-size:.9rem}
+.area-links{font-size:.88rem;display:flex;gap:10px 12px;flex-wrap:wrap}
+.area summary:focus-visible{outline:2px solid var(--glass);outline-offset:-2px}
 @media(max-width:900px){.split{grid-template-columns:1fr}.mapwrap{position:relative;top:0}#map{height:58vh;min-height:360px}.list{max-height:none;min-height:0;overflow:visible}}
 @media(max-width:640px){.hero{padding:60px 16px 44px}.p1,.p2{display:none}.p3{height:60%!important;right:-30px}.searchbar{flex-direction:column}.cta{padding:14px}.grid{grid-template-columns:1fr}.count{margin-left:0}.hero .mono{font-size:.62rem;letter-spacing:.1em}#q{font-size:.88rem}}
