@@ -72,5 +72,7 @@ footer{padding:8px 20px 28px;color:var(--muted);font-size:.8rem}footer .disclaim
 .area-when,.area-deal{color:var(--muted);font-size:.9rem}
 .area-links{font-size:.88rem;display:flex;gap:10px 12px;flex-wrap:wrap}
 .area summary:focus-visible{outline:2px solid var(--glass);outline-offset:-2px}
+.faq .area summary span{flex:1;min-width:0}
+.faq .area p{margin:0;padding:12px 16px 14px;color:var(--muted);font-size:.95rem;border-top:1px solid var(--line)}
 @media(max-width:900px){.split{grid-template-columns:1fr}.mapwrap{position:relative;top:0}#map{height:58vh;min-height:360px}.list{max-height:none;min-height:0;overflow:visible}}
 @media(max-width:640px){.hero{padding:60px 16px 44px}.p1,.p2{display:none}.p3{height:60%!important;right:-30px}.searchbar{flex-direction:column}.cta{padding:14px}.grid{grid-template-columns:1fr}.count{margin-left:0}.hero .mono{font-size:.62rem;letter-spacing:.1em}#q{font-size:.88rem}}
