@@ -312,6 +312,50 @@
    "addressSource": "US Census geocoder"
   },
   {
+   "name": "Woody's Wharf",
+   "neighborhood": "Newport Beach",
+   "address": "2318 Newport Blvd, Newport Beach, CA 92663",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "hoursText": "Mon-Fri; Sun late night; 3-6 PM; Sun 7-9 PM (bar only)",
+   "deals": [
+    "Clam chowder $5 (Mon-Sat only)",
+    "Fries $5, chips & salsa $5",
+    "Mahi tacos (2), chicken or carne asada tacos (2), jalapeno chips, Kobe sliders, crispy fish tacos (2), short rib sliders (2), bang bang shrimp $8",
+    "Wings, shrimp cocktail, asada fries (short rib +$2), nachos, ahi tower, dirty fries, harbor calamari $10",
+    "Domestic beer bottles $4 (Miller Light, Budweiser, Coor Light, Michelob Ultra)",
+    "House margarita, house wine, and premium draft (Bluemoon, Lagunitas, 805, Modelo, Sculpin) $6",
+    "White Claw hard seltzer $6",
+    "Well drinks $7",
+    "House martini and premium wine $8",
+    "Select specialty cocktails $10"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails",
+    "food"
+   ],
+   "website": "https://woodyswharf.com/",
+   "happyHourUrl": "https://woodyswharf.com/newport-beach-the-peninsula-woody-s-wharf-food-menu",
+   "happyHourDedicated": true,
+   "source": "https://woodyswharf.com/newport-beach-the-peninsula-woody-s-wharf-happy-hours-specials",
+   "verified": true,
+   "notes": "On the Peninsula. Prices are from the food menu Happy Hour section. Sunday late night is bar only.",
+   "zip": "92663",
+   "lat": 33.610760500259,
+   "lng": -117.928563242117,
+   "venueType": "restaurant",
+   "addressSource": "US Census geocoder"
+  },
+  {
    "name": "Killarney's Irish Pub",
    "neighborhood": "Huntington Beach",
    "address": "209 Main St, Huntington Beach, CA 92648",
